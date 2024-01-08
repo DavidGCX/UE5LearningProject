@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/UE5test/WareHouseWreckage/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"E:/UE5test/WareHouseWreckage/Content/Maps/Minimal_Default.umap",
+				"E:/UE5test/WareHouseWreckage/Content/Maps/BP_projectile.uasset",
+				"E:/UE5test/WareHouseWreckage/Content/Maps/Main.umap",
+				"E:/UE5test/WareHouseWreckage/Content/IndustryPropsPack6/Meshes/SM_Barrel01.uasset",
+				"E:/UE5test/WareHouseWreckage/Content/IndustryPropsPack6/Meshes/BP_SM_Barrel01.uasset",
+				"E:/UE5test/WareHouseWreckage/Content/Maps/BP_SM_Barrel01.uasset"
+			]
+		}
+	]
+}
